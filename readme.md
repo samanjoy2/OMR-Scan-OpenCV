@@ -13,6 +13,7 @@ This project implements a document scanning and bubble detection pipeline using 
 
 ### 3. Bubble Detected Image
 <img src="bubble_detected_image.jpg" alt="Bubble Detected Image" width="300"/>
+Accuracy of bubble detection: 93.75%
 
 ## Features
 
